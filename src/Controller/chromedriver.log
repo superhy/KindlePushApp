@@ -1,0 +1,15 @@
+[0.003][INFO]:      ChromeDriver 19.0.1068.0 C:\Python27\chromedriver.exe
+[0.491][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chromeOptions": {
+      "args": [  ],
+      "binary": "",
+      "extensions": [  ]
+   },
+   "javascriptEnabled": true,
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.492][INFO]:      Launching chrome: "C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --homepage=about:blank
+[45.596][SEVERE]:   Failed to initialize connection

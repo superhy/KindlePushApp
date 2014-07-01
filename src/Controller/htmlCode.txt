@@ -1,0 +1,2602 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>末世之国色无双，雁南征，小说目录，小说分类，二级分类，纵横中文网</title>
+<meta name="keywords" content="末世之国色无双,雁南征,最新章节,最新TXT下载,全文阅读,二级分类,小说分类,纵横中文网"/>
+<meta name="description" content="科幻游戏小说末世之国色无双是雁南征在纵横中文小说网原创首发最新力作，阅读小说末世之国色无双最新章节，小说末世之国色无双最新TXT下载，全文阅读，尽在纵横中文小说网。"/>
+<meta name="robots" content="all"/>
+<meta name="googlebot" content="all"/>
+<meta name="baiduspider" content="all"/>
+<meta name="copyright" content="本页版权 www.zongheng.com 纵横中文网所有。All Rights Reserved"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.zongheng.com/chapter/list?bookid=226514"/>
+<link rel="stylesheet" type="text/css" href="http://static.zongheng.com/v2012/style/basic.css"/>
+<link rel="stylesheet" type="text/css" href="http://static.zongheng.com/v2012/style/read.css"/>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/jquery-plugin.min.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/domain.min.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/logger.min.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2_0/js/adClickStat.js"></script>
+<script type="text/javascript" src="http://ufile.qushimeiti.com/Flashget_union.php?fg_uid=96096"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2_0/js/Flashget_base64.js"></script>
+</head>
+
+<body bookId="226514" bookName="末世之国色无双" catePid="15" level="1"
+    isMemberBook="" isMonthOrderBook="false" isUserDonate="true"
+    logger="8000:/click/1153/15/226514/m/0/3809517/2012-12-01/!{userId}/showchapter">
+
+<!-- 登录部分 -->
+
+
+
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/json2.min.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/base64.min.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/user.min.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/widget.min.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/header.min.js"></script>
+
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/topnav1.0.min.js"></script>
+<div class="logonbox">
+    <div id="topnavbar" class="wrap">
+        <div class="left_wrap">
+        <script type="text/javascript">
+        <!--
+        (function(){document.write(window.UserManager.build(window.user));})();
+        //-->
+        </script>
+        </div>
+        <div class="right_wrap">
+            <div class="quick_oprate">
+            <script type="text/javascript">
+            <!--
+            (function(){document.write(window.TopMenu.build(window.user));})();
+            //-->
+            </script>
+            </div>
+        </div>
+        <div class="cl0"></div>
+    </div>
+    <div class="close">关闭</div>
+    <div class="blackline"></div>
+</div>
+<!-- 登录部分 结束 -->
+<div class="zonghengbg">
+    <!-- 通栏广告1 -->
+    <div class="cl15"></div>
+    <div class="wrap" da="D1"><script type="text/javascript" src="http://static.zongheng.com/upload/ad/column/50843511907.js"></script></div>
+    <!-- 通栏广告1 结束 -->
+    <div class="cl15"></div>
+    <!-- 章节列表 -->
+    <div class="wrap chaplist">
+        <div class="guide_nav">
+            <span class="fr"><a href="http://game.zongheng.com" target="_blank">游戏中心</a><a href="http://passport.zongheng.com" target="_blank">加入纵横</a><a class="fb" href="http://author.zongheng.com" target="_blank">成为作者</a></span>
+            <span class="nav"><em></em><a href="http://www.zongheng.com">纵横</a>&gt;<a href="http://book.zongheng.com/store.html">书库</a>&gt;<a href="http://book.zongheng.com/category/15.html">科幻·游戏</a>&gt;<a href="http://book.zongheng.com/book/226514.html">末世之国色无双</a></span>
+        </div>
+        <div class="title">
+            <h1><a href="http://book.zongheng.com/book/226514.html">末世之国色无双</a></h1>
+            <em class="viptitle" title="VIP"></em>
+            <span class="author">作者：<a class="fb" href="http://home.zongheng.com/show/userInfo/3809517.html" target="_blank">雁南征</a></span>
+            <script>var fUrl = "http://dl.zongheng.com/book/226514.zip";</script>
+            <p><span>[<a class="totaltome" href="javascript:void(0)">全文阅读</a>·<a class="newread" href="javascript:void(0)">新版</a>]</span><span>[<a class="download" href="javascript:void(0)">全文下载</a>]</span><span>[<a class="flashget" href="javascript:void(0)" oncontextmenu="Flashget_SetHref_js(this,96096);">快车下载</a>]</span></p>
+        </div>
+        <!-- qt条 -->
+        <div style="padding: 10px; text-align: center;">
+            <script type="text/javascript">
+            /* 468*60，创建于2013-3-25 */
+            var cpro_id = "u1243960";
+            </script>
+            <script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+        </div>
+        <!-- qt条 结束 -->
+        <div class="chapter">
+            <!-- 公共卷 -->
+            
+
+            <!-- 混合卷 -->
+            
+                
+                    <h2>正文</h2>
+                    <div class="shade_one"></div>
+                    <div class="tc"><a href="http://book.zongheng.com/vip/book/226514.html" class="fred">[订阅VIP章节]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.zongheng.com/vip/charge.html" class="fred">[我要充值]</a></div>
+                    <div class="booklist">
+                        <table cellspacing="0" cellpadding="0" border="0">
+                            <!-- 公共章节 -->
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4139680.html" title="最后更新时间:2012-12-01 字数:3948">第一章 末世来临</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4141062.html" title="最后更新时间:2012-12-01 字数:4277">第二章  风情女教师</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4141692.html" title="最后更新时间:2012-12-01 字数:4275">第三章 手枪怎么可以这样用</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4144045.html" title="最后更新时间:2012-12-02 字数:4524">第四章 贪心不足的二世祖</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4144149.html" title="最后更新时间:2012-12-02 字数:4551">第五章 男生女生中的中流砥柱</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4148236.html" title="最后更新时间:2012-12-02 字数:3272">第六章 美丽女生的心意</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4148453.html" title="最后更新时间:2012-12-03 字数:3407">第七章  公园里的狼群</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4148539.html" title="最后更新时间:2012-12-03 字数:2426">第八章 变态枪手</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4148697.html" title="最后更新时间:2012-12-03 字数:2080">第九章 陆地上怎么会有触手怪</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4149260.html" title="最后更新时间:2012-12-03 字数:2569">第十章 落井下石捡便宜</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4151057.html" title="最后更新时间:2012-12-03 字数:2542">第十一章 这才是真正的狠毒</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4153251.html" title="最后更新时间:2012-12-04 字数:2122">第十二章 兵之王者</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4153782.html" title="最后更新时间:2012-12-04 字数:2722">第十三章 以自私为荣</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4154523.html" title="最后更新时间:2012-12-04 字数:2705">第十四章 最需要的男人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4155216.html" title="最后更新时间:2012-12-04 字数:2505">第十五章 这人是阴谋家</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4157735.html" title="最后更新时间:2012-12-05 字数:3091">第十六章  你害怕了吗</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4158903.html" title="最后更新时间:2012-12-05 字数:3182">第十七章 去救大小姐</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4159525.html" title="最后更新时间:2012-12-05 字数:3774">第十八章 	全他妹的贪生怕死</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4163220.html" title="最后更新时间:2012-12-06 字数:2479">第十九章 是不是吓傻了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4163432.html" title="最后更新时间:2012-12-06 字数:2146">第二十章 其实我也很怕死</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4163697.html" title="最后更新时间:2012-12-06 字数:2423">第二十一章 泪流满面甲壳怪</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4164168.html" title="最后更新时间:2012-12-06 字数:3084">第二十二章 僵尸虫</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4166800.html" title="最后更新时间:2012-12-07 字数:2726">第二十三章 你的命不值钱</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4167754.html" title="最后更新时间:2012-12-07 字数:2264">第二十四章 白衣美女</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4168277.html" title="最后更新时间:2012-12-07 字数:2955">第二十五章 被漂亮所惑</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4168986.html" title="最后更新时间:2012-12-07 字数:2200">第二十六章 大小姐要见你</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4171475.html" title="最后更新时间:2012-12-08 字数:3349">第二十七章 可以滚了</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4172273.html" title="最后更新时间:2012-12-08 字数:2437">第二十八章 狗男女</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4172879.html" title="最后更新时间:2012-12-08 字数:2183">第二十九章 不要叫我再见到你们</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4173853.html" title="最后更新时间:2012-12-08 字数:2329">第三十章 害人之心</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4176641.html" title="最后更新时间:2012-12-09 字数:3225">第三十一章 他不配做战神</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4176811.html" title="最后更新时间:2012-12-09 字数:2360">第三十二章 你可以过来了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4178267.html" title="最后更新时间:2012-12-09 字数:2292">第三十三章 我在等你出手</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4179934.html" title="最后更新时间:2012-12-09 字数:2240">第三十四章 撕心裂肺的哭声</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4180099.html" title="最后更新时间:2012-12-10 字数:2932">第三十五章 三祖临城</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4181427.html" title="最后更新时间:2012-12-10 字数:2487">第三十六章 雪狼首领</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4181854.html" title="最后更新时间:2012-12-10 字数:2476">第三十七章 嗜血鸟怪</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4182705.html" title="最后更新时间:2012-12-10 字数:2547">第三十八章 虎爷</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4185000.html" title="最后更新时间:2012-12-11 字数:2291">第三十九章 也许我错了</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4185452.html" title="最后更新时间:2012-12-11 字数:2777">第四十章 文雪儿的愤怒</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4186157.html" title="最后更新时间:2012-12-11 字数:2805">第四十一章 我是小兵</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4187162.html" title="最后更新时间:2012-12-11 字数:2255">第四十二章 葬身蟒腹</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4189645.html" title="最后更新时间:2012-12-12 字数:2688">第四十三章 大溃败</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4190334.html" title="最后更新时间:2012-12-12 字数:2684">第四十四章 你毁了我毁你</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4190411.html" title="最后更新时间:2012-12-12 字数:2450">第四十五章 断魂桥</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4191447.html" title="最后更新时间:2012-12-12 字数:2284">第四十六章 杀错的与不得不杀的人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4193940.html" title="最后更新时间:2012-12-13 字数:2882">第四十七章 打瘪了奶</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4194200.html" title="最后更新时间:2012-12-13 字数:2931">第四十八章 骑在身上</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4194843.html" title="最后更新时间:2012-12-13 字数:2235">第四十九章 霸占初吻</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4195417.html" title="最后更新时间:2012-12-13 字数:2065">第五十章 遗迹之宝</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4198335.html" title="最后更新时间:2012-12-14 字数:2907">第五十一章 我就是赖账</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4198786.html" title="最后更新时间:2012-12-14 字数:2783">第五十二章 彻底决裂</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4199865.html" title="最后更新时间:2012-12-14 字数:2276">第五十三章 弹飞子弹</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4200257.html" title="最后更新时间:2012-12-14 字数:2159">第五十四章 人命如草</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4202557.html" title="最后更新时间:2012-12-15 字数:2513">第五十五章 血腥的真相</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4202894.html" title="最后更新时间:2012-12-15 字数:2705">第五十六章 忘却曾经的记忆</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4203396.html" title="最后更新时间:2012-12-15 字数:2707">第五十七章 火炮连天</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4204162.html" title="最后更新时间:2012-12-15 字数:2090">第五十八章 狼爷</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4207063.html" title="最后更新时间:2012-12-16 字数:2793">第五十九章 杀出重围</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4207234.html" title="最后更新时间:2012-12-16 字数:2857">第六十章 进入山林</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4207856.html" title="最后更新时间:2012-12-16 字数:2349">第六十一章 地盘在肚子里</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4210182.html" title="最后更新时间:2012-12-16 字数:2015">第六十二章 吃货</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4210913.html" title="最后更新时间:2012-12-17 字数:2785">第六十三章 最无耻的怪兽</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4211563.html" title="最后更新时间:2012-12-17 字数:2660">第六十四章 素食怪兽</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4212666.html" title="最后更新时间:2012-12-17 字数:2160">第六十五章 猫怪的神辉</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4213518.html" title="最后更新时间:2012-12-17 字数:2460">第六十六章 一样的蛮不讲理</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4215291.html" title="最后更新时间:2012-12-18 字数:3065">第六十七章 缘</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4216198.html" title="最后更新时间:2012-12-18 字数:2799">第六十八章 一杯浊酒喜相逢</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4217175.html" title="最后更新时间:2012-12-18 字数:2187">第六十九章 我是无辜的</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4217386.html" title="最后更新时间:2012-12-18 字数:2042">第七十章 一生一世的誓死追随</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4219928.html" title="最后更新时间:2012-12-19 字数:2803">第七十一章 还有谁不服</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4220259.html" title="最后更新时间:2012-12-19 字数:2731">第七十二章 你逼我回来的</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4221336.html" title="最后更新时间:2012-12-19 字数:2416">第七十三章 一败涂地</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4221564.html" title="最后更新时间:2012-12-19 字数:2162">第七十四章 伤别离</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4223672.html" title="最后更新时间:2012-12-20 字数:2732">第七十五章 剑亦有灵</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4224178.html" title="最后更新时间:2012-12-20 字数:2798">第七十六章 打脸计划</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4224706.html" title="最后更新时间:2012-12-20 字数:2205">第七十七章 世态炎凉</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4225726.html" title="最后更新时间:2012-12-20 字数:2275">第七十八章 无悔亦无惧</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4227566.html" title="最后更新时间:2012-12-21 字数:2881">第七十九章 妇女之友</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4228416.html" title="最后更新时间:2012-12-21 字数:2835">第八十章 各种狡辩</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4229033.html" title="最后更新时间:2012-12-21 字数:2202">第八十一章 承认你个头</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4229764.html" title="最后更新时间:2012-12-21 字数:2099">第八十二章 莫名其妙的庇护</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4231954.html" title="最后更新时间:2012-12-22 字数:2674">第八十二章 后山黑衣人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4232592.html" title="最后更新时间:2012-12-22 字数:2816">第八十三章 梦里人</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4233848.html" title="最后更新时间:2012-12-22 字数:2488">第八十四章  一模一样的人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4233956.html" title="最后更新时间:2012-12-22 字数:2071">第八十五章 这是考验吗</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4236498.html" title="最后更新时间:2012-12-23 字数:2919">第八十五章 天涯来人</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4236773.html" title="最后更新时间:2012-12-23 字数:2829">第八十六章 一剑</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4237808.html" title="最后更新时间:2012-12-23 字数:2192">第八十七章 六境</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4239255.html" title="最后更新时间:2012-12-23 字数:2113">第八十八章 撕破了脸</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4240298.html" title="最后更新时间:2012-12-24 字数:2873">第八十九章 直接超凡</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4240898.html" title="最后更新时间:2012-12-24 字数:2922">第九十章 漂亮女人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4242310.html" title="最后更新时间:2012-12-24 字数:2097">第九十一章 欲加之罪</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4242583.html" title="最后更新时间:2012-12-24 字数:2115">第九十二章 胡搅蛮缠</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4244180.html" title="最后更新时间:2012-12-25 字数:3000">第九十三章 壮志凌云</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4245060.html" title="最后更新时间:2012-12-25 字数:2888">第九十四章 两点寒芒</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4246083.html" title="最后更新时间:2012-12-25 字数:2091">第九十五章 冰容解冻</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4246354.html" title="最后更新时间:2012-12-25 字数:2125">第九十六章 银面故人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4248612.html" title="最后更新时间:2012-12-26 字数:2821">第九十七章 讽刺挖苦</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4249108.html" title="最后更新时间:2012-12-26 字数:2979">第九十八章 惊鸿一舞醉众生</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4250078.html" title="最后更新时间:2012-12-26 字数:2096">第九十九章 谁家小萝莉</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4250302.html" title="最后更新时间:2012-12-26 字数:2133">第一百章 小姑娘的微笑</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4252673.html" title="最后更新时间:2012-12-27 字数:2766">第一百零一章 女神入怀</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4252795.html" title="最后更新时间:2012-12-27 字数:3096">第一零二章 传说中的金刚</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4253827.html" title="最后更新时间:2012-12-27 字数:2016">第一零三章 如炬之剑</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4253950.html" title="最后更新时间:2012-12-27 字数:2143">第一零四章 至情至性痴女孩</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4256642.html" title="最后更新时间:2012-12-28 字数:2814">第一零五章 鹬蚌相争</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4256800.html" title="最后更新时间:2012-12-28 字数:2929">第一零六章 生死绝境</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4257966.html" title="最后更新时间:2012-12-28 字数:2229">第一零七章 银色面具下的狰狞面孔</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4258126.html" title="最后更新时间:2012-12-28 字数:2049">第一零八章 帅的一塌糊涂的微笑</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4260495.html" title="最后更新时间:2012-12-29 字数:2190">第一零九章 山洞里的奸夫淫妇</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4261961.html" title="最后更新时间:2012-12-29 字数:2330">第一一零章 你怎么了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4263940.html" title="最后更新时间:2012-12-30 字数:2597">第一一一章 男人要主动一些</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4264165.html" title="最后更新时间:2012-12-30 字数:2221">第一一二章 凝脂香魂不眠夜</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4266892.html" title="最后更新时间:2012-12-30 字数:3046">第一一三章 柔体女孩的味道</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4267111.html" title="最后更新时间:2012-12-30 字数:2234">第一一四章 吃腥的报应</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4268678.html" title="最后更新时间:2012-12-31 字数:2720">第一一五章 脑袋高飞</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4269111.html" title="最后更新时间:2012-12-31 字数:2773">第一一六章 没有良心发现</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4270089.html" title="最后更新时间:2012-12-31 字数:2493">第一一七章 无所不敢</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4270554.html" title="最后更新时间:2012-12-31 字数:2336">第一一八章  利剑指向天空</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4273317.html" title="最后更新时间:2013-01-01 字数:2842">第一一一九章 果然是恶魔</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4273535.html" title="最后更新时间:2013-01-01 字数:2868">第一二零章 真正的潇洒</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4274340.html" title="最后更新时间:2013-01-01 字数:2053">第一二一章 不该死的人</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4274700.html" title="最后更新时间:2013-01-01 字数:2296">第一二二章 专挑软的捏</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4277076.html" title="最后更新时间:2013-01-02 字数:2990">第一二三章 袭胸一剑</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4277221.html" title="最后更新时间:2013-01-02 字数:2973">第一二四章 最沉重的目光</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4278321.html" title="最后更新时间:2013-01-02 字数:2317">第一二五章 天眼之败</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4278375.html" title="最后更新时间:2013-01-02 字数:2176">第一二六章 二师兄的霸道</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4280355.html" title="最后更新时间:2013-01-03 字数:2923">第一二七章 我的征途在星辰大海</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4281583.html" title="最后更新时间:2013-01-03 字数:2886">第一二八章 来自东方的战争</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4282508.html" title="最后更新时间:2013-01-03 字数:2192">第一二九章 平民之怒</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4282756.html" title="最后更新时间:2013-01-03 字数:2076">第一百三十章 剑气无双</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4285118.html" title="最后更新时间:2013-01-04 字数:2982">第一三一章 有良心的吃货</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4285204.html" title="最后更新时间:2013-01-04 字数:3063">第一三二章 狡猾的人与兽</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4286677.html" title="最后更新时间:2013-01-04 字数:4052">第一三三章 风雨飘摇</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4289076.html" title="最后更新时间:2013-01-05 字数:3945">第一三四章 郝强之强</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4289214.html" title="最后更新时间:2013-01-05 字数:3202">第一三五章 小爷值了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4290588.html" title="最后更新时间:2013-01-05 字数:3063">第一三六章 前途未卜基地市</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4293009.html" title="最后更新时间:2013-01-06 字数:4140">第一三七章 暧昧暗室</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4293144.html" title="最后更新时间:2013-01-06 字数:3346">第一三八章 暗格春潮</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4294675.html" title="最后更新时间:2013-01-06 字数:2612">第一三九章 攻心</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4296413.html" title="最后更新时间:2013-01-07 字数:3030">第一四零章 白痴</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4297045.html" title="最后更新时间:2013-01-07 字数:3712">第一四一章 入魔</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4298406.html" title="最后更新时间:2013-01-07 字数:3365">第一四二章 我是你的你也是我的</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4300439.html" title="最后更新时间:2013-01-08 字数:3278">第一四三章 如电一剑</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4301054.html" title="最后更新时间:2013-01-08 字数:3359">第一四四章 我不会承认</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4301542.html" title="最后更新时间:2013-01-08 字数:3447">第一四五章 无耻无信</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4304121.html" title="最后更新时间:2013-01-09 字数:3227">第一四六章 太不纯洁了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4304768.html" title="最后更新时间:2013-01-09 字数:3866">第一四七章 排骨女 冷艳女</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4305281.html" title="最后更新时间:2013-01-09 字数:3209">第一四八章 群美大比拼</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4307762.html" title="最后更新时间:2013-01-10 字数:3600">第一四九章 小白脸的姘头</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4308389.html" title="最后更新时间:2013-01-10 字数:3562">第一五零章 不识抬举的娘们</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4308892.html" title="最后更新时间:2013-01-10 字数:3153">第一五一章 小气男人明艳女</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4311819.html" title="最后更新时间:2013-01-11 字数:3376">第一五二章 男人都不是好东西</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4312338.html" title="最后更新时间:2013-01-11 字数:3697">第一五三章 幼萝莉的恶梦</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4313187.html" title="最后更新时间:2013-01-11 字数:3176">第一五四章 夜半偷香</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4315169.html" title="最后更新时间:2013-01-12 字数:3635">第一五四章 淑女的疯狂</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4315841.html" title="最后更新时间:2013-01-12 字数:3868">第一五五章 心甘情愿的温柔</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4316802.html" title="最后更新时间:2013-01-12 字数:2916">第一五六章 给老娘滚出来</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4319014.html" title="最后更新时间:2013-01-13 字数:3641">第一五七章 格杀勿论</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4319822.html" title="最后更新时间:2013-01-13 字数:3728">第一百五十八章  切了男人的本钱</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4320744.html" title="最后更新时间:2013-01-13 字数:3145">第一五九章 最无耻的提议</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4323012.html" title="最后更新时间:2013-01-14 字数:3288">第一百六十章 失控了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4323786.html" title="最后更新时间:2013-01-14 字数:3653">第一百六十一章 送你回老家</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4324665.html" title="最后更新时间:2013-01-14 字数:3139">第一百六十二章 血口喷人</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4326970.html" title="最后更新时间:2013-01-15 字数:3766">第一六三章 换种姿势再玩</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4327561.html" title="最后更新时间:2013-01-15 字数:3574">第一百六十四章 帅哥来玩呀</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4328440.html" title="最后更新时间:2013-01-15 字数:3031">第一六五章 伺候不了也要伺候</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4330400.html" title="最后更新时间:2013-01-16 字数:3391">第一六六章 清新美少女</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4331282.html" title="最后更新时间:2013-01-16 字数:4224">第一六七章 集团小公主</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4332054.html" title="最后更新时间:2013-01-16 字数:2693">第一六八章 神勇公会</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4334681.html" title="最后更新时间:2013-01-17 字数:3656">第一六九章 龙飘飘</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4335365.html" title="最后更新时间:2013-01-17 字数:3667">第一七零章 把酒夜话</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4336078.html" title="最后更新时间:2013-01-17 字数:2776">第一七一章 狂虐二世祖</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4337755.html" title="最后更新时间:2013-01-18 字数:3596">第一七二章 百合小女孩</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4338584.html" title="最后更新时间:2013-01-18 字数:4239">第一七三章 恋萝莉的嗜好</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4339617.html" title="最后更新时间:2013-01-18 字数:2579">第一七四章 玉蝎女</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4341844.html" title="最后更新时间:2013-01-19 字数:3528">第一七五章 母蝎子</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4342744.html" title="最后更新时间:2013-01-19 字数:3598">第一七六章 勾心斗角</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4343346.html" title="最后更新时间:2013-01-19 字数:2952">第一七七章 借一步说话</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4344931.html" title="最后更新时间:2013-01-20 字数:3881">第一七八章 拓跋王子</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4345531.html" title="最后更新时间:2013-01-20 字数:3929">第一七九章 一下子看上了两个女孩</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4346392.html" title="最后更新时间:2013-01-20 字数:2425">第一八零章 你是什么东西</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4348546.html" title="最后更新时间:2013-01-21 字数:4251">第一八一章 两个打一个</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4349178.html" title="最后更新时间:2013-01-21 字数:3964">第一八二章 还给你袭胸</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4349615.html" title="最后更新时间:2013-01-21 字数:2074">第一百八三章 狡猾邪恶的华夏人</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4352434.html" title="最后更新时间:2013-01-22 字数:3917">第一百八四章 斩落拉风头发</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4352936.html" title="最后更新时间:2013-01-22 字数:3873">第一八五章  不能再忍了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4353856.html" title="最后更新时间:2013-01-22 字数:2364">第一八六章 尽力而为</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4356071.html" title="最后更新时间:2013-01-23 字数:4058">第一八七章 少女的初吻</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4356832.html" title="最后更新时间:2013-01-23 字数:3149">第一八八章 一夫当关</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4357199.html" title="最后更新时间:2013-01-23 字数:2818">第一八九章 连起手来</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4360231.html" title="最后更新时间:2013-01-24 字数:3584">第一九零章 两个小娘们</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4360652.html" title="最后更新时间:2013-01-24 字数:4227">第一九一章 最强的时刻</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4361680.html" title="最后更新时间:2013-01-24 字数:2330">第一百九二章 黑甲军</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4363478.html" title="最后更新时间:2013-01-25 字数:3854">第一九三章 无休的厮杀</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4364070.html" title="最后更新时间:2013-01-25 字数:3732">第一九四章 只有半个身体的将军</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4364825.html" title="最后更新时间:2013-01-25 字数:2444">第一百九十五章 我的剑法怎么样</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4367311.html" title="最后更新时间:2013-01-26 字数:3496">第一九十六章 王子之死</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4368112.html" title="最后更新时间:2013-01-26 字数:4229">第一九七章 艰难的选择</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4369066.html" title="最后更新时间:2013-01-26 字数:2376">第一九八章 不该死与该死的人</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4371060.html" title="最后更新时间:2013-01-27 字数:3484">第一九九章 突然杀人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4371754.html" title="最后更新时间:2013-01-27 字数:3757">第二百章 狗杂碎曹双喜</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4372404.html" title="最后更新时间:2013-01-27 字数:3180">第二零一章 绝地杀戮</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4374605.html" title="最后更新时间:2013-01-28 字数:4114">第二零二章 妹子都搭进去了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4375249.html" title="最后更新时间:2013-01-28 字数:3724">第二零三章 禽兽的潜力</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4375850.html" title="最后更新时间:2013-01-28 字数:2384">第二零四章 文雪儿的骄傲</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4378614.html" title="最后更新时间:2013-01-29 字数:3467">第二零四章 曹狗</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4379380.html" title="最后更新时间:2013-01-29 字数:3669">第二零五章 叛徒的下场</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4380102.html" title="最后更新时间:2013-01-29 字数:3006">第二零六章  真心失望了</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4382257.html" title="最后更新时间:2013-01-30 字数:4139">第二零七章 老狗</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4382988.html" title="最后更新时间:2013-01-30 字数:4031">第二零八章 临阵抱佛脚</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4383442.html" title="最后更新时间:2013-01-30 字数:2062">第二零九章 最艰辛的一战</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4385936.html" title="最后更新时间:2013-01-31 字数:4349">第二一零章 师姐你真好</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4386692.html" title="最后更新时间:2013-01-31 字数:4012">第二一一章 想入了神</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4387265.html" title="最后更新时间:2013-01-31 字数:2142">第二一二章 美女走光了</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4389789.html" title="最后更新时间:2013-02-01 字数:4180">第二一三章 狼来了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4390506.html" title="最后更新时间:2013-02-01 字数:4107">第二一四章 老娘要杀了那条狼</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4391885.html" title="最后更新时间:2013-02-01 字数:2078">第二一五章 胡吹大气</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4393844.html" title="最后更新时间:2013-02-02 字数:4455">第二一六章 调戏天之骄女</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4394669.html" title="最后更新时间:2013-02-02 字数:3891">第二一七章 耳光</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4395704.html" title="最后更新时间:2013-02-02 字数:1796">第二一八章 天塌了</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4398087.html" title="最后更新时间:2013-02-03 字数:4422">第二一九章 小叔 小姨</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4399177.html" title="最后更新时间:2013-02-03 字数:3564">第二二零章 赵少将的愤怒</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4399547.html" title="最后更新时间:2013-02-03 字数:2142">第二二一章 混账东西</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4401878.html" title="最后更新时间:2013-02-04 字数:4091">第二二二章 踩着肩膀往上爬</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4402573.html" title="最后更新时间:2013-02-04 字数:4078">第二二三章 得不到的就毁掉</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4403515.html" title="最后更新时间:2013-02-04 字数:2079">第二二四章 她们是香饵</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4405805.html" title="最后更新时间:2013-02-05 字数:4204">第二二五章 你是我的亲叔</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4406545.html" title="最后更新时间:2013-02-05 字数:4010">第二二六章 芊芊玉手</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4406775.html" title="最后更新时间:2013-02-05 字数:2036">第二二七章 真正对手</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4409925.html" title="最后更新时间:2013-02-06 字数:4534">第二二八章 拼命</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4410379.html" title="最后更新时间:2013-02-06 字数:3637">第二二九章 雕刻大师无名氏</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4410897.html" title="最后更新时间:2013-02-06 字数:2074">第二三零章 知道的太多容易死</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4412942.html" title="最后更新时间:2013-02-07 字数:4185">第二三一章 齐人之福</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4413843.html" title="最后更新时间:2013-02-07 字数:3967">第二三二章 叶秋寒的故事</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4414524.html" title="最后更新时间:2013-02-07 字数:2297">第二三三章 只会走  不会滚</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4415767.html" title="最后更新时间:2013-02-08 字数:4527">第二三四章 美夫人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4416529.html" title="最后更新时间:2013-02-08 字数:3627">第二三五章 非主流女人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4417214.html" title="最后更新时间:2013-02-08 字数:2084">第二三六章 没良心的小白脸</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4418810.html" title="最后更新时间:2013-02-09 字数:4483">第二三七章 不绅士作为</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4419401.html" title="最后更新时间:2013-02-09 字数:3654">第二三八章 叶秋寒的故事 【下】</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4420328.html" title="最后更新时间:2013-02-09 字数:2267">第三三九章 百灵美女</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4421644.html" title="最后更新时间:2013-02-10 字数:4475">第二四零章 没得谈了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4422301.html" title="最后更新时间:2013-02-10 字数:3667">第二四一章 杀鸡用宰牛刀</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4422531.html" title="最后更新时间:2013-02-10 字数:2063">第二四二章 娇滴滴女孩</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4424115.html" title="最后更新时间:2013-02-11 字数:4205">第二四三章 暗箭伤人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4424953.html" title="最后更新时间:2013-02-11 字数:4174">第二四四章 三个小贱人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4425343.html" title="最后更新时间:2013-02-11 字数:2108">第二四五章 私心</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4426609.html" title="最后更新时间:2013-02-12 字数:5104">第二四六章 白色幽灵</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4429383.html" title="最后更新时间:2013-02-13 字数:4215">第二四七章 有沟有形</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4430539.html" title="最后更新时间:2013-02-13 字数:4468">第二四八章 上了你这丫头</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4430867.html" title="最后更新时间:2013-02-13 字数:2259">第二四九章 死了也能玩</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4432041.html" title="最后更新时间:2013-02-14 字数:4363">第二五零章 寻欢作乐的二世祖</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4432774.html" title="最后更新时间:2013-02-14 字数:4324">第二五一章 女儿体香</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4433164.html" title="最后更新时间:2013-02-14 字数:2454">第二五二章 未婚妻被上了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4434715.html" title="最后更新时间:2013-02-15 字数:4251">第二五三章 要舌头何用</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4435404.html" title="最后更新时间:2013-02-15 字数:4148">第二五四章 虚空强者</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4435689.html" title="最后更新时间:2013-02-15 字数:2091">第二五五章 全身的衣服脱了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4437586.html" title="最后更新时间:2013-02-16 字数:5056">第二五六章 搞死老娘了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4438409.html" title="最后更新时间:2013-02-16 字数:5053">第二五七章 寝室春色</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4440951.html" title="最后更新时间:2013-02-17 字数:5328">第二五八章 羞涩女孩</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4441904.html" title="最后更新时间:2013-02-17 字数:5223">第二五九章 技术很好的女人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4444497.html" title="最后更新时间:2013-02-18 字数:4689">第二六零章 色色老男人</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4445131.html" title="最后更新时间:2013-02-18 字数:2734">第二六一章 不是大丈夫</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4445257.html" title="最后更新时间:2013-02-18 字数:2976">第二六二章 叶府新婚</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4447623.html" title="最后更新时间:2013-02-19 字数:5230">第二六二章 五步杀一人</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4448434.html" title="最后更新时间:2013-02-19 字数:5252">第二六三章 我来保护你</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4450889.html" title="最后更新时间:2013-02-20 字数:5314">第二百六十四章 你已经来晚了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4451713.html" title="最后更新时间:2013-02-20 字数:5300">第二六五章 美夫人的下跪</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4454079.html" title="最后更新时间:2013-02-21 字数:5323">第二六六章 华夏最年轻的女司令</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4455004.html" title="最后更新时间:2013-02-21 字数:4966">第二六七章 不仅看 还要吃</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4457165.html" title="最后更新时间:2013-02-22 字数:5733">第二六八章 胸肿了吗</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4457992.html" title="最后更新时间:2013-02-22 字数:5134">第二六九章 胸脯变大两号</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4460392.html" title="最后更新时间:2013-02-23 字数:5576">第二七零章 又被抓胸</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4461219.html" title="最后更新时间:2013-02-23 字数:5450">第二七一章 剑落短裙满地</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4463848.html" title="最后更新时间:2013-02-24 字数:5293">第二七二章 第一女神</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4464556.html" title="最后更新时间:2013-02-24 字数:5147">第二七三章 看一眼就怀孕</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4466971.html" title="最后更新时间:2013-02-25 字数:5628">第二七四章 动了胎气</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4467808.html" title="最后更新时间:2013-02-25 字数:5117">第二七五章 浓妆女人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4470133.html" title="最后更新时间:2013-02-26 字数:5183">第二七六章 栽赃</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4471171.html" title="最后更新时间:2013-02-26 字数:5208">第二七七章 我与你清清白白</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4473351.html" title="最后更新时间:2013-02-27 字数:2795">第二七八章 美人诱惑</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4473587.html" title="最后更新时间:2013-02-27 字数:2926">第二七九章 接吻高手</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4474164.html" title="最后更新时间:2013-02-27 字数:4624">第二八零章 黑白双雄</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4477012.html" title="最后更新时间:2013-02-28 字数:5429">第二八一章 征服芳心</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4477717.html" title="最后更新时间:2013-02-28 字数:4945">第二八二章 两女一夫</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4480435.html" title="最后更新时间:2013-03-01 字数:5549">第二八三章 禽兽兄弟的逆袭</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4481427.html" title="最后更新时间:2013-03-01 字数:4744">第二八四章 有故事的女人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4484216.html" title="最后更新时间:2013-03-02 字数:5431">第二八五章 最后的胜利</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4485194.html" title="最后更新时间:2013-03-02 字数:4890">第二百八六章 你不是我的对手</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4487952.html" title="最后更新时间:2013-03-03 字数:5319">第二八七章 最美姐妹花</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4489064.html" title="最后更新时间:2013-03-03 字数:4833">第二八八章 专注所以无敌</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4491904.html" title="最后更新时间:2013-03-04 字数:5707">第二八九章 最美的战斗</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4492932.html" title="最后更新时间:2013-03-04 字数:5318">第二九零章 美女膝盖淤青的狂想</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4495617.html" title="最后更新时间:2013-03-05 字数:5380">第二九一章 输了陪睡觉</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4496592.html" title="最后更新时间:2013-03-05 字数:5175">第二九二章 输不起</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4499009.html" title="最后更新时间:2013-03-06 字数:5703">第二九三章 神医一条街</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4499895.html" title="最后更新时间:2013-03-06 字数:4984">第二九四章 你痛经</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4502347.html" title="最后更新时间:2013-03-07 字数:5586">第二九四章 坚强女孩</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4504086.html" title="最后更新时间:2013-03-07 字数:4828">第二九五章 极品败家子</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4506078.html" title="最后更新时间:2013-03-08 字数:5580">第二九六章 有的是钱</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4507089.html" title="最后更新时间:2013-03-08 字数:4779">第二九七章 亲爹认不出儿子</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4510144.html" title="最后更新时间:2013-03-09 字数:5420">第二九八章 漂亮娇纵女</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4511032.html" title="最后更新时间:2013-03-09 字数:4701">第二九九章 绝不退让</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4514046.html" title="最后更新时间:2013-03-10 字数:5398">第三零零章 小白兔乱跳</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4515119.html" title="最后更新时间:2013-03-10 字数:5080">第三零一章 舍不了身体套不了色狼</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4517617.html" title="最后更新时间:2013-03-11 字数:5533">第三零二章 女人最美妙的时刻</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4518422.html" title="最后更新时间:2013-03-11 字数:4889">第三零三章 美好晚宴的邀请</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4521412.html" title="最后更新时间:2013-03-12 字数:5611">第三零四章 好漂亮</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4522128.html" title="最后更新时间:2013-03-12 字数:4664">第三零五章 惊艳全场</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4524994.html" title="最后更新时间:2013-03-13 字数:5575">第三零六章 痛死我了</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4525756.html" title="最后更新时间:2013-03-13 字数:4587">第三零七章 不要杀他</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4528384.html" title="最后更新时间:2013-03-14 字数:5479">第三零八章 美少女的逆袭</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4529355.html" title="最后更新时间:2013-03-14 字数:4632">第三零九章 裙角飞扬</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4532162.html" title="最后更新时间:2013-03-15 字数:5722">第三一零章 脱光了衣服</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4533227.html" title="最后更新时间:2013-03-15 字数:4466">第三一一章 随便起来不是人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4535762.html" title="最后更新时间:2013-03-16 字数:5532">第三一二章 火凤传说</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4536838.html" title="最后更新时间:2013-03-16 字数:4682">第三一三章 渭山火战</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4539617.html" title="最后更新时间:2013-03-17 字数:5785">第三一四章 黑裙美女</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4540443.html" title="最后更新时间:2013-03-17 字数:4642">第三一五章 杀出一条路</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4543379.html" title="最后更新时间:2013-03-18 字数:5774">第三一六章 因为无敌 所以无敌</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4544301.html" title="最后更新时间:2013-03-18 字数:4441">第三一七章 还不动手</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4546815.html" title="最后更新时间:2013-03-19 字数:5406">第三一八章 六境巅峰</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4547707.html" title="最后更新时间:2013-03-19 字数:4847">第三一九章 当面勾引</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4549970.html" title="最后更新时间:2013-03-20 字数:5556">第三二零章 不要脸</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4551769.html" title="最后更新时间:2013-03-20 字数:4660">第三二一章 男人最大的地方</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4554464.html" title="最后更新时间:2013-03-21 字数:5960">第三二二章 极品中的极品女人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4554949.html" title="最后更新时间:2013-03-21 字数:4353">第三二三章  再玩就没命了</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4557724.html" title="最后更新时间:2013-03-22 字数:5859">第三二四章 厨房中的狂欢</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4558455.html" title="最后更新时间:2013-03-22 字数:4323">第三二五章 拥有异能</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4561246.html" title="最后更新时间:2013-03-23 字数:6009">第三二六章 天皇女人</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4562062.html" title="最后更新时间:2013-03-23 字数:4058">第三二七章 倭国最强</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4564726.html" title="最后更新时间:2013-03-24 字数:3619">第三二八章 白骨精</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4564845.html" title="最后更新时间:2013-03-24 字数:2430">第三二九章  我敢亵渎她</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4565546.html" title="最后更新时间:2013-03-24 字数:4181">第三三零章 天皇绿帽</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4568645.html" title="最后更新时间:2013-03-25 字数:3242">第三三一章 一朵花与一片花海</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4568818.html" title="最后更新时间:2013-03-25 字数:3331">第三三二章 尽情享受</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4569268.html" title="最后更新时间:2013-03-25 字数:3679">第三三三章 师生的春晓</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4572472.html" title="最后更新时间:2013-03-26 字数:3543">第三三四章 贱皇妃</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4572616.html" title="最后更新时间:2013-03-26 字数:3188">第三三五章 精彩礼物</a></td>
+                                
+                            
+                                
+                                
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4573601.html" title="最后更新时间:2013-03-26 字数:3632">第三三六章 将老师给办了</a></td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td><a href="http://book.zongheng.com/chapter/226514/4574159.html" title="最后更新时间:2013-03-26 字数:588">上架感言：光荣与梦想同在！</a></td>
+                                
+                            
+                            <!-- VIP章节 -->
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4576792.html" title="最后更新时间:2013-03-27 字数:3491">第三三七章 一起欺负了【上架第一章，求首定。】</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4576954.html" title="最后更新时间:2013-03-27 字数:3711">第三三八章 阴霾蔽日</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4577153.html" title="最后更新时间:2013-03-27 字数:2892">第三三九章 桃面蛇蝎</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4579793.html" title="最后更新时间:2013-03-28 字数:3360">第三四零章 是不是人话</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4579947.html" title="最后更新时间:2013-03-28 字数:3450">第三四一章 上了她们</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4580704.html" title="最后更新时间:2013-03-28 字数:3371">第三四二章 不想当汉奸</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4583658.html" title="最后更新时间:2013-03-29 字数:3086">第三四三章 不过是小姐</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4583870.html" title="最后更新时间:2013-03-29 字数:3843">第三四四章 为了美女不顾一切</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4584300.html" title="最后更新时间:2013-03-29 字数:3109">第三四五章 我要你的命</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4587625.html" title="最后更新时间:2013-03-30 字数:3875">第三四六章 奇变</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4587938.html" title="最后更新时间:2013-03-30 字数:3179">第三四七章　再回首已失百年身</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4588413.html" title="最后更新时间:2013-03-30 字数:3144">第三四八章 我要干你</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4592411.html" title="最后更新时间:2013-03-31 字数:3094">第三四九章 礼仪之邦无礼仪</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4592532.html" title="最后更新时间:2013-03-31 字数:3179">第三五零章 干天皇的女人</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4595613.html" title="最后更新时间:2013-04-01 字数:3749">第三五一章 骑木驴</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4595933.html" title="最后更新时间:2013-04-01 字数:4058">第三五二章 制服诱惑</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4596262.html" title="最后更新时间:2013-04-01 字数:2318">第三五三章 大战序幕</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4599664.html" title="最后更新时间:2013-04-02 字数:4197">第三五四章 战之军魂</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4599891.html" title="最后更新时间:2013-04-02 字数:3706">第三五五章 罪恶聚集地</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4600500.html" title="最后更新时间:2013-04-02 字数:2126">第三五六章 密室倩影</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4603880.html" title="最后更新时间:2013-04-03 字数:3948">第三五七章 地牢裸女</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4604303.html" title="最后更新时间:2013-04-03 字数:4040">第三五八章 能杀人也能救人</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4604589.html" title="最后更新时间:2013-04-03 字数:2052">第三五九章 借剑杀人</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4607680.html" title="最后更新时间:2013-04-04 字数:4152">第三六零章 杀气滔天</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4607800.html" title="最后更新时间:2013-04-04 字数:3571">第三六一章 尼玛的误伤</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4608860.html" title="最后更新时间:2013-04-04 字数:2528">第三六二章 是去找女人吧</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4611903.html" title="最后更新时间:2013-04-05 字数:4165">第三六三章 老虎来了</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4612946.html" title="最后更新时间:2013-04-05 字数:3726">第三百六十四章 扮猪吃虎</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4613459.html" title="最后更新时间:2013-04-05 字数:2203">第三六五章 做的还不错</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4616322.html" title="最后更新时间:2013-04-06 字数:4174">第三六六章 竟然好这一口</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4616590.html" title="最后更新时间:2013-04-06 字数:3853">第三六七章 想象力丰富</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4617333.html" title="最后更新时间:2013-04-06 字数:2297">第三六八章 非我族类</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4620796.html" title="最后更新时间:2013-04-07 字数:3831">第三六九章 杀人盈城</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4620954.html" title="最后更新时间:2013-04-07 字数:4057">第三七零章 瞬间万里</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4621751.html" title="最后更新时间:2013-04-07 字数:2181">第三七一章 越野惊魂</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4624647.html" title="最后更新时间:2013-04-08 字数:3666">第三七二章 狗咬狗</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4625061.html" title="最后更新时间:2013-04-08 字数:3954">第三七三章 领袖山</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4625488.html" title="最后更新时间:2013-04-08 字数:2511">第三七四章 局中局</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4628597.html" title="最后更新时间:2013-04-09 字数:3898">第三七五章 还有天理不</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4629123.html" title="最后更新时间:2013-04-09 字数:4105">第三七六章 我愿意嫁给你</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4629254.html" title="最后更新时间:2013-04-09 字数:2126">第三七七章 不停的做</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4632773.html" title="最后更新时间:2013-04-10 字数:4202">第三七八章 我杀人在行</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4632865.html" title="最后更新时间:2013-04-10 字数:3122">第三七九章 策反</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4633564.html" title="最后更新时间:2013-04-10 字数:2822">第三八零章 欺负了一个又一个</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4636553.html" title="最后更新时间:2013-04-11 字数:3919">第三八一章 情生意切</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4636998.html" title="最后更新时间:2013-04-11 字数:4134">第三八二章 婚礼奇变　　</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4637497.html" title="最后更新时间:2013-04-11 字数:2172">第三八三章 桌子下的美腿</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4640983.html" title="最后更新时间:2013-04-12 字数:4313">第三八四章 极度傲慢</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4641121.html" title="最后更新时间:2013-04-12 字数:3607">第三八五章 强词夺理</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4641606.html" title="最后更新时间:2013-04-12 字数:2124">第三八六章 超越六境的战斗</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4644615.html" title="最后更新时间:2013-04-13 字数:4100">第三八七章 轻轻一吻</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4645071.html" title="最后更新时间:2013-04-13 字数:3589">第三八八章 女孩心意</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4645485.html" title="最后更新时间:2013-04-13 字数:2365">第三八九章 二师兄的戒尺</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4649235.html" title="最后更新时间:2013-04-14 字数:4315">第三九零章 无视空间规则</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4649406.html" title="最后更新时间:2013-04-14 字数:3605">第三九一章 二师兄之二</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4649876.html" title="最后更新时间:2013-04-14 字数:2184">第三九二章 楚楚动人</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4652789.html" title="最后更新时间:2013-04-15 字数:4229">第三九三章 楚少妖娆</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4652928.html" title="最后更新时间:2013-04-15 字数:3728">第三九四章 再战姐妹花</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4653413.html" title="最后更新时间:2013-04-15 字数:2212">第三九四章 占便宜</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4657114.html" title="最后更新时间:2013-04-16 字数:4193">第三九五章 抢别人的女人　　</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4657240.html" title="最后更新时间:2013-04-16 字数:3698">第三九六章 美女谈判使</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4657654.html" title="最后更新时间:2013-04-16 字数:2222">第三九七章 身材真好</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4661693.html" title="最后更新时间:2013-04-17 字数:4557">第三九八章 我认识你哥</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4661812.html" title="最后更新时间:2013-04-17 字数:3536">第三九九章 小女孩的奇袭</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4662900.html" title="最后更新时间:2013-04-17 字数:2092">第四零零章 破甲杀将</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4665233.html" title="最后更新时间:2013-04-18 字数:4253">第四零一章 楚楚的秘密</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4665391.html" title="最后更新时间:2013-04-18 字数:3628">第四零二章 有恨生爱</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4665464.html" title="最后更新时间:2013-04-18 字数:2287">第四零三章 胸部为什么痛</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4668748.html" title="最后更新时间:2013-04-19 字数:4067">第四零四章 将最厉害的女人睡了</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4668927.html" title="最后更新时间:2013-04-19 字数:3792">第四零五章 自欺欺人</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4669236.html" title="最后更新时间:2013-04-19 字数:2248">第四零六章 亲密无间</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4672556.html" title="最后更新时间:2013-04-20 字数:4277">第四零七章 惊天剑</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4672925.html" title="最后更新时间:2013-04-20 字数:3770">第四零八章 最重的伤</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4673760.html" title="最后更新时间:2013-04-20 字数:2127">第四零九章 最美萝莉</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4677021.html" title="最后更新时间:2013-04-21 字数:4138">第四一零章 极致美腿</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4677321.html" title="最后更新时间:2013-04-21 字数:3773">第四一一章 反斩</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4678376.html" title="最后更新时间:2013-04-21 字数:2254">第四一二章 无形的封锁</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4681444.html" title="最后更新时间:2013-04-22 字数:4075">第四一三章 不能看的人</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4681565.html" title="最后更新时间:2013-04-22 字数:3843">第四一四章 战无不胜</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4681885.html" title="最后更新时间:2013-04-22 字数:2147">第四一五章 大师兄的强大</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4684637.html" title="最后更新时间:2013-04-23 字数:4080">第四一六章 看一眼你就死了</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4685170.html" title="最后更新时间:2013-04-23 字数:4036">第四一七章 性情中人</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4685837.html" title="最后更新时间:2013-04-23 字数:2019">第四一八章 谁下地狱</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4688893.html" title="最后更新时间:2013-04-24 字数:3853">第四一九章  高阳之死</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4689661.html" title="最后更新时间:2013-04-24 字数:4042">第四二零章 化身千万</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4690266.html" title="最后更新时间:2013-04-24 字数:2178">第四二一章 油条老汉</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4692733.html" title="最后更新时间:2013-04-25 字数:4056">第四二二章 神人之斩</a>
+                                    </td>
+                                </tr>
+                            
+                                
+                                <tr>
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4693303.html" title="最后更新时间:2013-04-25 字数:4021">第四二三章 凌迟之剑</a>
+                                    </td>
+                                
+                            
+                                
+                                
+                                    <td>
+                                        <em class="vip"></em>
+                                        <a href="http://book.zongheng.com/chapter/226514/4693825.html" title="最后更新时间:2013-04-25 字数:2099">第四二四章 乱刀砍死她</a>
+                                    </td>
+                                
+                            
+                        </table>
+                    </div>
+                    <div class="cl20"></div>
+                
+            
+
+            <!-- VIP卷 -->
+            
+        </div>
+    </div>
+    <!-- 章节列表 结束 -->
+</div>
+<!-- 头部背景 结束 -->
+<div class="cl15"></div>
+<!-- 通栏广告2 -->
+<div class="wrap" da="D2"><script type="text/javascript">
+/* http://static.zongheng.com/upload/ad/column/50843511908.js */
+/*960*90，创建于2013-3-11*/
+var cpro_id = "u1231351";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<script type="text/javascript" src="http://static.zongheng.com/upload/ad/column/55952885226.js"></script>
+<!-- 通栏广告2 结束 -->
+<div class="cl15"></div>
+<!-- 页尾 -->
+
+<div class="wrap foot">
+    <p>
+        <a href="http://www.zongheng.com/company/about.html" target="_blank">关于纵横</a>|
+        <a href="http://www.zongheng.com/company/job.html" target="_blank">诚聘英才</a>|
+        <a href="http://www.zongheng.com/company/business.html" target="_blank">商务合作</a>|
+        <a href="http://www.zongheng.com/company/copyright.html" target="_blank">法律声明</a>|
+        <a href="http://www.zongheng.com/help/index.html" target="_blank">帮助中心</a>|
+        <a href="http://author.zongheng.com/login.html" target="_blank">作者投稿</a>|
+        <a href="http://www.zongheng.com/company/contact.html" target="_blank">联系我们</a>|
+        <a href="http://www.zongheng.com/company/link.html" target="_blank">友情链接</a>|
+        <a href="http://news.zongheng.com/zhuanti/wlqz/index.html" target="_blank">谨防诈骗</a>|
+        <a href="http://www.zongheng.com/sitemap.html" target="_blank">网站地图</a>
+    </p>
+    <p><em>Copyright&copy;&nbsp;2008-2010 <a class="f66" href="http://www.zongheng.com">www.zongheng.com</a></em></p>
+    <p><em>All Rights Reserved </em>版权所有 北京幻想纵横网络技术有限公司</p>
+    <p>京<em>ICP</em>证：<em>080527</em>号&nbsp;《网络文化经营许可证》&nbsp;京<em>ICP</em>备<em>11009265</em>号&nbsp;&nbsp;文网文<em>[2009]127</em>号&nbsp;&nbsp;京公网安备<em>11010502005190</em>号</p>
+    <p>作者发布作品时，请遵守国家互联网信息管理办法规定。本站所收录作品、社区话题、书库评论均属其个人行为，不代表本站立场。</p>
+    <em class="l_logo"></em>
+</div>
+<div style="display: none;"><script type="text/javascript" src="http://static.zongheng.com/v2_0/js/tongji.js"></script></div>
+<script type="text/javascript">
+<!--
+document.write("<div id=\"ui_widget_dialog\" style=\"width: 190px; height: 32px; overflow: hidden; display: none;\"><div class=\"loading\">请求数据加载中...</div><iframe id=\"ui_widget_dialog_frame\" frameborder=\"0\" scrolling=\"no\" style=\"width: 20px; height: 20px; overflow: hidden;\" src=\"about:blank\"></iframe></div>");
+//-->
+</script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/kefu.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/ad_click.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/adClickStat.js"></script>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/cooperate/index_r_b.js"></script>
+<!-- 页尾 结束 -->
+<div style="display: none;" da="1"><script type="text/javascript" src="http://static.zongheng.com/upload/ad/column/52068633979.js"></script></div>
+<div style="display: none;" da="1"><script type="text/javascript" src="http://static.zongheng.com/upload/ad/column/52068633980.js"></script></div>
+<script type="text/javascript" src="http://static.zongheng.com/v2012/js/chapter.min.js"></script>
+</body>
+</html>
