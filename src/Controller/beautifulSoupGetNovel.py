@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 '''
 Created on 2013-5-10
 
@@ -6,9 +8,9 @@ Created on 2013-5-10
 
 from BeautifulSoup import BeautifulSoup, Comment
 from getPageTest import *
-import urllib2
-import string
 import re
+import string
+import urllib2
 
 class beautifulSoupGetNovel():
     
@@ -23,12 +25,8 @@ class beautifulSoupGetNovel():
         self.localFile = u"../../novelFile/"
         self.bookName = u""
         i = 0
-        while 1:
-            if titleTag[i] == ',':
-                break
-            self.bookName = self.bookName + titleTag[i]
-            self.localFile = self.localFile + titleTag[i]
-            i = i + 1
+        self.bookName = self.bookName + titleTag[i]
+        self.localFile = self.localFile + titleTag[i]
         self.localFile = self.localFile + ".txt"
         return self.bookName, self.localFile    
         

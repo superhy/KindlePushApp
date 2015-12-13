@@ -23,7 +23,7 @@ class wxRegisterFrame ( wx.Frame ):
         
         self.SetSizeHintsSz( wx.DefaultSize, wx.DefaultSize )
         
-        gSizerRegister = wx.GridSizer( 2, 2, 0, 0 )
+        gSizerRegister = wx.GridSizer( 9, 2, 0, 0 )
         
         self.m_staticTextUserName = wx.StaticText( self, wx.ID_ANY, u"user_name :", wx.DefaultPosition, wx.DefaultSize, 0 )
         self.m_staticTextUserName.Wrap( -1 )
@@ -108,14 +108,14 @@ class wxRegisterFrame ( wx.Frame ):
     
     # Virtual event handlers, overide them in your derived class
     def OnOK( self, event ):
-        user_name = self.m_textCtrlUserName.Label
-        user_password = self.m_textCtrlUserPassword.Label
-        user_pwdrap = self.m_textCtrlPwdRap.Label
-        user_sex = self.m_textCtrlUserSex.Label
-        user_tel = self.m_textCtrlUserTel.Label
-        user_email = self.m_textCtrlUserEmail.Label
-        user_email_pwd = self.m_textCtrlUserEmailPwd.Label
-        user_sendemail = self.m_textCtrlUserSendEmail.Label
+        user_name = self.m_textCtrlUserName.GetValue()
+        user_password = self.m_textCtrlUserPassword.GetValue()
+        user_pwdrap = self.m_textCtrlPwdRap.GetValue()
+        user_sex = self.m_textCtrlUserSex.GetValue()
+        user_tel = self.m_textCtrlUserTel.GetValue()
+        user_email = self.m_textCtrlUserEmail.GetValue()
+        user_email_pwd = self.m_textCtrlUserEmailPwd.GetValue()
+        user_sendemail = self.m_textCtrlUserSendEmail.GetValue()
         
         if user_password != user_pwdrap:
             dlg = wx.MessageDialog(self, 'The Input of Your password is Different !', 'WARNING !', wx.OK | wx.ICON_INFORMATION)

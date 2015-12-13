@@ -1,5 +1,14 @@
 eclipse.preferences.version=1
 encoding//BackLoad/wxLoginFrame.py=utf-8
+encoding//src/Controller/CrawlerTest.py=UTF-8
+encoding//src/Controller/ayasURL.py=UTF-8
+encoding//src/Controller/beautifulSoupGetNovel.py=UTF-8
+encoding//src/Controller/getPageTest.py=UTF-8
+encoding//src/Controller/pushSend.py=UTF-8
+encoding//src/DBBean/SQLiteInit.py=UTF-8
 encoding//src/View/wxLoginFrame.py=utf-8
 encoding//src/View/wxMainFrame.py=utf-8
+encoding//src/View/wxPushDialog.py=UTF-8
 encoding//src/View/wxRegisterFrame.py=utf-8
+encoding//src/View/wxRun.py=UTF-8
+encoding/<project>=GBK

@@ -30,7 +30,7 @@ class wxLoginFrame ( wx.Frame ):
         
         bSizerLogin = wx.BoxSizer( wx.VERTICAL )
         
-        gSizerLogin = wx.GridSizer( 2, 2, 0, 0 )
+        gSizerLogin = wx.GridSizer( 3, 2, 0, 0 )
         
         gSizerLogin.SetMinSize( wx.Size( 400,250 ) ) 
         self.m_staticTextUserName = wx.StaticText( self, wx.ID_ANY, u"UserName :", wx.DefaultPosition, wx.DefaultSize, 0 )
@@ -111,8 +111,8 @@ class wxLoginFrame ( wx.Frame ):
                 self.Destroy()
     
     def OnSubmit( self, event ):
-        str_userName = self.m_textCtrlUserName.Label
-        str_userPassword = self.m_textCtrlPassWord.Label  
+        str_userName = self.m_textCtrlUserName.GetValue()
+        str_userPassword = self.m_textCtrlPassWord.GetValue() 
         dbConnLogin = DBBean.SQLiteInit.sqlInit()
         dbConnLogin.createTable()
         subRes = dbConnLogin.selectLogin(str_userName, str_userPassword)
@@ -127,5 +127,3 @@ class wxLoginFrame ( wx.Frame ):
         frame = wxRegisterFrame.wxRegisterFrame(None)
         frame.Show(True)
         appRun.MainLoop()
-        
-        

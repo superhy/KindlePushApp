@@ -47,6 +47,7 @@ class beautifulSoupGetTXT():
         [comment.extract() for comment in del_soup]
         roughly_content = soup.findAll('p')
         str_charpter = ""
+        print soup.h2.em
         if soup.h2.em:
             charpter = soup.h2.em.string
             str_charpter = str(charpter)

@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 '''
 Created on 2013-4-29
 
@@ -9,7 +11,7 @@ import sqlite3
 class sqlInit():
     
     def __init__(self):
-        #create database ans connction
+        # create database ans connction
         self.conn = sqlite3.connect("../../DataBase/kindle_DB.db")
         self.cur = self.conn.cursor()
         
@@ -20,15 +22,15 @@ class sqlInit():
     def createTable(self):
         # create table
         self.conn.execute("create table if not exists user(user_id integer primary key autoincrement, "
-                         +"user_name varchar(128) not null, user_password varchar(64) not null, "
-                         +"user_sex integer null, user_tel varchar(64) null, "
-                         +"user_email varchar(128) not null, user_email_pwd varchar(128) not null, "
-                         +"user_sendemail varchar(128) not null)")
+                         + "user_name varchar(128) not null, user_password varchar(64) not null, "
+                         + "user_sex integer null, user_tel varchar(64) null, "
+                         + "user_email varchar(128) not null, user_email_pwd varchar(128) not null, "
+                         + "user_sendemail varchar(128) not null)")
         
         self.conn.execute("create table if not exists book_send(send_id integer primary key autoincrement, "
-                          +"book_name varchar(64) not null, book_file varchar(128) not null, "
-                          +"user_name varchar(128) not null, push_num integer null, total_num integer null, "
-                          +"save_flag integer not null)")
+                          + "book_name varchar(64) not null, book_file varchar(128) not null, "
+                          + "user_name varchar(128) not null, push_num integer null, total_num integer null, "
+                          + "save_flag integer not null)")
         
         self.conn.execute("")
         
@@ -45,8 +47,8 @@ class sqlInit():
         user_sendemail = userObj.getuser_sendemail()
         
         self.conn.execute("insert into user(user_name, user_password, user_sex, user_tel, user_email, "
-                          +"user_email_pwd, user_sendemail) values ('" + user_name + "', '" + user_password 
-                          +"', " + user_sex +", '" + user_tel +"', '" + user_email + "', '" 
+                          + "user_email_pwd, user_sendemail) values ('" + user_name + "', '" + user_password 
+                          + "', " + user_sex + ", '" + user_tel + "', '" + user_email + "', '" 
                           + user_email_pwd + "', '" + user_sendemail + "')")
         self.conn.commit()
         
@@ -66,8 +68,8 @@ class sqlInit():
 #         print save_flag
         
         self.conn.execute("insert into book_send(book_name, book_file, user_name, push_num, total_num, "
-                          +"save_flag) values ('" + book_name + "', '" + book_file + "', '" + user_name 
-                          +"', " + str(push_num) + ", " + str(total_num) + ", " + str(save_flag) + ")")
+                          + "save_flag) values ('" + book_name + "', '" + book_file + "', '" + user_name 
+                          + "', " + str(push_num) + ", " + str(total_num) + ", " + str(save_flag) + ")")
         self.conn.commit()
         
     def selectLogin(self, str_username, str_userpassword):
